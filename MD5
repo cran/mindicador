@@ -1,0 +1,17 @@
+4d0c6f2cf352bb7d64a5d64aab8508e3 *DESCRIPTION
+4e64f424928513a8dc90bfbf8da60da7 *NAMESPACE
+a587784208b7ad969d29ee5ae14f9c54 *NEWS.md
+eeb063a3c367fa0b16afa1294a36d66c *R/cache.R
+e31856b7168ab2374e93a07a29a303c0 *R/importar_datos.R
+3c508ced0adcefaf29a9caf1a149ff34 *README.md
+2e4a40f1126c8248981855e84d8be112 *build/vignette.rds
+2fe8fafcd6f9e81809a0d2940ae1fc36 *data/mindicador_indicadores.rda
+113e6b0553f2a47ec961598b2581d82c *inst/doc/mindicador.R
+7f827a49998683063c67921fdee58e17 *inst/doc/mindicador.Rmd
+31b0dbb256690a5a7519b0097047f437 *inst/doc/mindicador.html
+b5efa5d35adee949c9ce30e9f6f45463 *man/mindicador_importar_datos.Rd
+524d27668976e0d4ac07a26606dc8357 *man/mindicador_indicadores.Rd
+df928c3b6bda489fc4f8768ed4999938 *tests/testthat.R
+807bfc2bb33cb9190b19c51d95ba08d6 *tests/testthat/test-api-connections.R
+68b329da9893e34099c7d8ad5cb9c940 *tests/testthat/uf-2020-06-05.yml
+7f827a49998683063c67921fdee58e17 *vignettes/mindicador.Rmd
